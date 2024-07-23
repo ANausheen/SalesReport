@@ -2,7 +2,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a Customer Performance Report 
+    **1.** Create a Customer Performance Report.pdf
 
     **2.** Conduct a comprehensive comparison between Market Performance and Sales target
 
