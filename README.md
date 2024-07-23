@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by Fiscal Years 
+    **1.** Create Profit and Loss (P&L) reports by Fiscal Years https://github.com/ANausheen/SalesReport/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 
    **2.** Create Profit and Loss (P&L) reports by Markets
 
