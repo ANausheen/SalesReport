@@ -2,7 +2,8 @@
 
 - **Project objective:** 
 
-    **1.** Create a Customer Performance Report.pdf
+    **1.** Create a Customer Performance Report
+  https://github.com/ANausheen/SalesReport/commit/db1bbfbf84c69330947db9875a5a741600903273
 
     **2.** Conduct a comprehensive comparison between Market Performance and Sales target
 
